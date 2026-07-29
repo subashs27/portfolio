@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://your-portfolio.vercel.app"), // Update after deployment
+  metadataBase: new URL("https://portfolio-six-livid-46.vercel.app"), // Update after deployment
 
   title: {
     default: "Subash | AI Engineer",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     title: "Subash | AI Engineer",
     description:
       "Portfolio showcasing AI, Machine Learning, Hybrid RAG, Generative AI, and Software Engineering projects.",
-    url: "https://your-portfolio.vercel.app",
+    url: "https://portfolio-six-livid-46.vercel.app",
     siteName: "Subash Portfolio",
     locale: "en_US",
     type: "website",
