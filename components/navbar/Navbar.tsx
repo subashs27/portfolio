@@ -74,7 +74,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/subash-s-156439370/"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-lg bg-violet-600 px-4 py-2 text-white hover:bg-violet-500 transition"

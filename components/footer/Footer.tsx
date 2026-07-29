@@ -45,7 +45,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/subash-s-156439370/"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-full border border-white/10 bg-white/5 p-4 text-gray-300 transition-all duration-300 hover:-translate-y-1 hover:border-cyan-500 hover:bg-cyan-500/10 hover:text-cyan-300"
@@ -54,7 +54,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="mailto:yourmail@gmail.com"
+              href="mailto:subashs0027@gmail.com"
               className="rounded-full border border-white/10 bg-white/5 p-4 text-gray-300 transition-all duration-300 hover:-translate-y-1 hover:border-fuchsia-500 hover:bg-fuchsia-500/10 hover:text-fuchsia-300"
             >
               <FaEnvelope size={22} />
