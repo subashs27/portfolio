@@ -45,10 +45,12 @@ export default function Hero() {
 
                 <a
                     href="/resume/Subash_Resume.pdf"
-                    download
+                    target="_blank"
+                    rel="noopener noreferrer"
+
                     className="rounded-xl border border-white/20 bg-white/5 px-8 py-4 font-semibold text-white backdrop-blur-xl transition duration-300 hover:scale-105 hover:border-violet-500 hover:bg-white/10"
                 >
-                    Download Resume
+                    View Resume
                 </a>
             </div>
 
